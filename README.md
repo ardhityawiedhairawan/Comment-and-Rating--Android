@@ -1,7 +1,7 @@
 Android Comment and Rating
 ==============================
 
-How to create comment and Rating form. 
+How to create comment form with Rating bar stars. 
 
 
 Result
